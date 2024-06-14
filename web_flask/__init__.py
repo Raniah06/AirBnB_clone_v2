@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-"""This module instantiates an object of class FileStorage"""
-from models.engine.file_storage import FileStorage
+# web_flask/__init__.py
 
+# This file can be empty or contain package initialization code.
 
-storage = FileStorage()
-storage.reload()
